@@ -1,4 +1,5 @@
 #!/bin/bash
+#https://github.com/DivisaoZero/gitpushpull
 
 DZLOGFILE="/dzti/quest/git_dev_on_prod.log"
 ERRCODE=0
